@@ -13,7 +13,7 @@ Dataset (Excel) → SQL data loading → SQL analysis views → Power BI dashboa
 ![Dashboard](Dashboard.png)
 
 ## Power BI Dashboard
-Power BI Link: INSERT_LINK_HERE
+Power BI Link: (https://app.powerbi.com/view?r=eyJrIjoiZTQ3MTUzMDYtMTIyOC00OWIyLThlNGEtZTVjYjFlMWZmMGYzIiwidCI6IjJlYjljOWYwLTVmMWQtNGM1Ny1hOTZlLWFiOTU0Yjk0YTJlZCJ9)
 
 ## Files
 - `loadData.sql` – SQL script for creating tables and loading data  
